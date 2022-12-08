@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F5A4732E-A822-91D7-4998-DB34FDFCA435}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TerrainChunk.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Data/MeshSettings.cs" Line="22" Column="29" />
+      <File FileName="Assets/Scripts/MeshGenerator.cs" />
+      <File FileName="Assets/Scripts/FalloffGenerator.cs" />
+      <File FileName="Assets/Scripts/HeightMapGenerator.cs" />
+      <File FileName="Assets/Scripts/MapPreview.cs" />
+      <File FileName="Assets/Scripts/Noise.cs" />
+      <File FileName="Assets/Scripts/TerrainChunk.cs" Line="39" Column="1" />
+      <File FileName="Assets/Scripts/TerrainGenerator.cs" Line="32" Column="1" />
+      <File FileName="Assets/Scripts/ThreadedDataRequester.cs" />
+      <File FileName="Assets/Scripts/Data/TextureData.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Procedural Landmass Generation" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e1d45f25-e48e-4e1d-b93f-867afe0797c2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
