@@ -1,4 +1,4 @@
 # Procedural-Landmass-Generation
 Procedural Terrain Generation in Unity
 
-<img src="terrain.gif" width="250" />
+<img src="terrain.gif" width="500" />
